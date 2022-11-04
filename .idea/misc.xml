@@ -3,6 +3,17 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/NgobrolKuy/app/src/main/res/layout/activity_ganti.xml" value="0.17916666666666667" />
+        <entry key="..\:/Users/ASUS/NgobrolKuy/app/src/main/res/layout/activity_kanankiri.xml" value="0.33" />
+        <entry key="..\:/Users/ASUS/NgobrolKuy/app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/NgobrolKuy/app/src/main/res/layout/activity_lupa_pass.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/NgobrolKuy/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Users/ASUS/NgobrolKuy/app/src/main/res/layout/activity_profile_pic.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/NgobrolKuy/app/src/main/res/layout/activity_register.xml" value="0.10778985507246377" />
+        <entry key="..\:/Users/ASUS/NgobrolKuy/app/src/main/res/layout/activity_setting.xml" value="0.25" />
+        <entry key="..\:/Users/ASUS/NgobrolKuy/app/src/main/res/layout/activity_splash.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/NgobrolKuy/app/src/main/res/layout/activity_ubah_pass.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/ASUS/NgobrolKuy/app/src/main/res/layout/asu.xml" value="0.25" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/circle.xml" value="0.2995" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/gradient_drawable.xml" value="0.268" />
         <entry key="..\:/Users/Komp/AndroidStudioProjects/NgobrolKuy/app/src/main/res/drawable/ic_baseline_edit_64.xml" value="0.2995" />
